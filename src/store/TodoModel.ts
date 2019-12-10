@@ -1,4 +1,4 @@
-import {decorate, observable} from 'mobx'
+import {observable} from 'mobx'
 
 class TodoModel {
   @observable text = ''
